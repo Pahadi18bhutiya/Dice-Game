@@ -1,0 +1,28 @@
+.body{
+    background-color: #393E46;
+}
+.heading{
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 5px 0 #232931;
+    font-size: 4rem;
+    color: #4ECCA3;
+}
+.container{
+    margin: auto;
+    text-align: center;
+}
+p{
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    width: 50%;
+}
+button{
+    margin-top: 10% !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    font-size: 2rem !important;
+    color: #4ECCA3 !important;
+}
